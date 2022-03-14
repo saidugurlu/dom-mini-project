@@ -1,7 +1,7 @@
 export const flashcards = [
 	{
 		"id": 19,
-		"category": "linux",
+		"category": "windows",
 		"kind": "command",
 		"front": "find out what kind of command a command is, e.g. `ls`",
 		"back": "type ls",
