@@ -5,4 +5,27 @@ body {
   h1 {
     color: yellow;
   }
+  .flashcards {
+    background: #444;
+    padding: 10px;
+    border-radius: 5px;
+    .flashcard {
+      background: #555;
+      margin: 0 0 10px 0;
+      padding: 3px;
+      font-size: 0.9rem;
+      .front {
+        .category {
+          color: #ddd;
+          font-weight: bold;
+        }
+      }
+      .back {
+        background: #111;
+        font-family: "Courier New", Courier, monospace;
+        color: orange;
+        padding: 3px;
+      }
+    }
+  }
 }
