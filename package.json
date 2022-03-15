@@ -1,0 +1,24 @@
+{
+  "name": "dom-mini-project",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saidugurlu/dom-mini-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saidugurlu/dom-mini-project/issues"
+  },
+  "homepage": "https://github.com/saidugurlu/dom-mini-project#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
